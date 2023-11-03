@@ -1,0 +1,9 @@
+node_modules
+.env
+logs
+temp
+.vscode/*
+/debug
+/logs
+*.swp
+/cache
