@@ -1,5 +1,13 @@
 # lakuin-cuy
+Bentar, apa itu Lakuin Cuy? Ini dia, temen-temen! Lakuin Cuy adalah proyek website catatan online yang dikerjain pake teknologi keren seperti Mongo Db, Express Js, React Js, dan Node Js. Ini bukan sekadar catatan biasa, tapi platform buat catet segala hal supaya lu nggak lupa!
 
+📚 Catatan Online: Catat apa aja, kapan aja, dan dari mana aja. Bisa diakses dari mana aja!
+
+🔥 Teknologi Canggih: Pake teknologi terdepan buat jamin pengalaman terbaik buat lu.
+
+🚀 Pengembangan Terus-Menerus: Gak pernah berhenti berkembang. Ada yang mau saran atau kontribusi? Yaudah, jangan ragu buat sharing!
+
+Gimana, tertarik? Langsung aja coba Lakuin Cuy, biar nggak ada yang terlewatkan! 💪😎
 
 ---
 
