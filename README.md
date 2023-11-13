@@ -24,7 +24,7 @@ Apa yang bikin Lakuin Cuy beda?
 
 Join the community, enhance your life, and stay organized with Lakuin Cuy! 😎🚀
 
-To begin, fill in the data in .env.config, rename it to .env, and run npm run dev in both the "lakuin-cuy-backend" and "lakuin-cuy-frontend" folders. Start taking notes at http://localhost:5173/, but don't forget to register an account first.
+To get started, you need to fill in the data in the .env.config file, then rename it to .env. Use the command `npm i` to install modules, and then `npm run dev` to run it in both folders "lakuin-cuy-backend" and "lakuin-cuy-frontend"
 
 ---
 
@@ -64,7 +64,7 @@ Apa yang bikin Lakuin Cuy beda?
 Duh, makin keren nih hidup lu. Gabung sama komunitas kita, bikin hidup makin asik! Gass, cuy! 😎🚀
 
 
-Untuk memulainya, lu perlu mengisi data di .env.config, kemudian ganti menjadi .env. Masukin kode `npm run dev` dalam kedua folder, yaitu "lakuin-cuy-backend" dan "lakuin-cuy-frontend"
+Untuk memulainya, lu perlu mengisi data di .env.config, kemudian ganti menjadi .env. Masukin kode `npm i` untuk menginstal module, kemudian `npm run dev` untuk menjalankannya dalam kedua folder, yaitu "lakuin-cuy-backend" dan "lakuin-cuy-frontend"
 
 lu bisa mulai nyatet note di url: http://localhost:5173/
 Jangan lupa register akun dulu cuy
